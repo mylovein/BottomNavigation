@@ -1,11 +1,11 @@
-package com.example.bottomnavigation.item;
+package com.mylovein.bottomnavigation.item;
 
 import android.animation.Animator;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.bottomnavigation.BottomNavigation;
-import com.example.bottomnavigation.R;
+import com.mylovein.bottomnavigation.BottomNavigation;
+import com.mylovein.bottomnavigation.R;
 
 /**
  * Created by Administrator on 2016/6/6.

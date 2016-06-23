@@ -1,4 +1,4 @@
-package com.example.bottomnavigation.item;
+package com.mylovein.bottomnavigation.item;
 
 /**
  * Created by Administrator on 2016/5/10.

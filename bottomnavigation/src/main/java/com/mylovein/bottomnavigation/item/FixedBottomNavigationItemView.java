@@ -1,4 +1,4 @@
-package com.example.bottomnavigation.item;
+package com.mylovein.bottomnavigation.item;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -14,9 +14,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.bottomnavigation.BottomNavigation;
-import com.example.bottomnavigation.MiscUtils;
-import com.example.bottomnavigation.R;
+import com.mylovein.bottomnavigation.BottomNavigation;
+import com.mylovein.bottomnavigation.MiscUtils;
+import com.mylovein.bottomnavigation.R;
 
 /**
  * Created by Administrator on 2016/5/25.

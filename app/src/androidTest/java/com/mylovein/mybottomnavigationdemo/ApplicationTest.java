@@ -1,4 +1,4 @@
-package com.example.mybottomnavigationdemo2;
+package com.mylovein.mybottomnavigationdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

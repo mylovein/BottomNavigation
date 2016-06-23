@@ -1,4 +1,4 @@
-package com.example.bottomnavigation.behaviour;
+package com.mylovein.bottomnavigation.behaviour;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;

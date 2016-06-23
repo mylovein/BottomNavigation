@@ -1,4 +1,4 @@
-package com.example.bottomnavigation;
+package com.mylovein.bottomnavigation;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.bottomnavigation;
+package com.mylovein.bottomnavigation;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -17,12 +17,12 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 
-import com.example.bottomnavigation.behaviour.BBottomNavigationBehavior;
-import com.example.bottomnavigation.behaviour.BottomNavigationBehavior;
-import com.example.bottomnavigation.item.BottomNavigationItem;
-import com.example.bottomnavigation.item.BottomNavigationItemView;
-import com.example.bottomnavigation.item.FixedBottomNavigationItemView;
-import com.example.bottomnavigation.item.ShiftingBottomNavigationItemView;
+import com.mylovein.bottomnavigation.behaviour.BBottomNavigationBehavior;
+import com.mylovein.bottomnavigation.behaviour.BottomNavigationBehavior;
+import com.mylovein.bottomnavigation.item.BottomNavigationItem;
+import com.mylovein.bottomnavigation.item.BottomNavigationItemView;
+import com.mylovein.bottomnavigation.item.FixedBottomNavigationItemView;
+import com.mylovein.bottomnavigation.item.ShiftingBottomNavigationItemView;
 
 import java.io.Serializable;
 import java.util.ArrayList;

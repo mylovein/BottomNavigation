@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.mybottomnavigationdemo2.MainActivity">
+    tools:context="com.mylovein.mybottomnavigationdemo.MainActivity">
 
     <android.support.v4.widget.NestedScrollView
         android:layout_width="match_parent"
@@ -31,7 +31,7 @@
         android:layout_marginRight="16dp"
         android:src="@android:drawable/ic_dialog_email" />
 
-    <com.example.bottomnavigation.BottomNavigation
+    <com.mylovein.bottomnavigation.BottomNavigation
         android:id="@+id/bn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

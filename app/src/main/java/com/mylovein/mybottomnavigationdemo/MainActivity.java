@@ -1,4 +1,4 @@
-package com.example.mybottomnavigationdemo2;
+package com.mylovein.mybottomnavigationdemo;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -7,9 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.bottomnavigation.BottomNavigation;
-import com.example.bottomnavigation.BottomNavigationItemClickListener;
-import com.example.bottomnavigation.item.BottomNavigationItem;
+import com.mylovein.bottomnavigation.BottomNavigation;
+import com.mylovein.bottomnavigation.BottomNavigationItemClickListener;
+import com.mylovein.bottomnavigation.item.BottomNavigationItem;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         bnv = (BottomNavigation) findViewById(R.id.bn);
-        bnv.addItem(new BottomNavigationItem(R.drawable.ic_cloud_off_white_24dp,"Cloud",R.color.green));
+        bnv.addItem(new BottomNavigationItem(R.drawable.ic_cloud_off_white_24dp,"Cloud", R.color.green));
         bnv.addItem(new BottomNavigationItem(R.drawable.ic_cast_connected_white_24dp,"Chrome",android.R.color.holo_green_dark));
         bnv.addItem(new BottomNavigationItem(R.drawable.ic_mail_white_24dp,"Mail",android.R.color.holo_orange_dark));
         bnv.addItem(new BottomNavigationItem(R.drawable.ic_format_list_numbered_white_24dp,"List", R.color.colorAccent));
