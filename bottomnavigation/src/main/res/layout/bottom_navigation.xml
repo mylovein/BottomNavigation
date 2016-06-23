@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/bottom_navigation_total_height">
+
+    <View
+        android:id="@+id/bottom_navigation_shadow"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_navigation_shadow_height"
+        android:background="@drawable/bottom_navigation_shadow" />
+
+    <FrameLayout
+        android:id="@+id/bottom_navigation_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_navigation_height"
+        android:layout_below="@+id/bottom_navigation_shadow">
+
+        <View
+            android:id="@+id/bottom_navigation_background_overlay"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_navigation_height"
+            android:visibility="gone"/>
+
+        <LinearLayout
+            android:id="@+id/bottom_navigation_item_container"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_navigation_height"
+            android:gravity="center"
+            android:orientation="horizontal"></LinearLayout>
+
+    </FrameLayout>
+
+
+</RelativeLayout>

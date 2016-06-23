@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_navigation_height">56dp</dimen>
+    <dimen name="bottom_navigation_elevation">8dp</dimen>
+    <dimen name="bottom_navigation_shadow_height">8dp</dimen>
+    <dimen name="bottom_navigation_total_height">64dp</dimen>
+
+    <dimen name="bottom_navigation_item_icon">24dp</dimen>
+    <dimen name="bottom_navigation_item_icon_with_badge_width">34dp</dimen>
+    <dimen name="bottom_navigation_item_icon_with_badge_height">28dp</dimen>
+    <dimen name="bottom_navigation_item_text_size_active">14sp</dimen>
+    <dimen name="bottom_navigation_item_text_size_inactive">12sp</dimen>
+
+    <!-- fixed item -->
+    <dimen name="fixed_bottom_navigation_item_min_width">80dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_max_width">168dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_padding_bottom">10dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_padding_left">12dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_padding_right">12dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_padding_top_active">6dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_padding_top_inactive">8dp</dimen>>
+    <dimen name="fixed_bottom_navigation_item_with_badge_padding_top_active">2dp</dimen>
+    <dimen name="fixed_bottom_navigation_item_with_badge_padding_top_inactive">4dp</dimen>
+
+    <!-- shifting item -->
+    <dimen name="shifting_bottom_navigation_item_min_width_active">96dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_max_width_active">168dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_min_width_inactive">56dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_max_width_inactive">96dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_padding_bottom">10dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_padding_top_active">6dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_padding_top_inactive">16dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_with_badge_padding_top_active">2dp</dimen>
+    <dimen name="shifting_bottom_navigation_item_with_badge_padding_top_inactive">12dp</dimen>
+
+    <!-- badge -->
+    <dimen name="bottom_navigation_badge_width">8dp</dimen>
+    <dimen name="bottom_navigation_badge_radius">4dp</dimen>
+    <dimen name="bottom_navigation_badge_margin_top">2dp</dimen>
+    <dimen name="bottom_navigation_badge_with_num_width">16dp</dimen>
+    <dimen name="bottom_navigation_badge_with_num_radius">8dp</dimen>
+    <dimen name="bottom_navigation_badge_with_num_text_size">10sp</dimen>
+
+
+
+    <dimen name="bottom_navigation_shadow_height_without_colored_background">4dp</dimen>
+    <dimen name="bottom_navigation_shadow_line_height">1dp</dimen>
+</resources>
